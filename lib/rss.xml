@@ -1,4 +1,5 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://raubmorder320.github.io/notes/</link><image><url>https://raubmorder320.github.io/notes/lib/media/favicon.png</url><title>obsidian</title><link>https://raubmorder320.github.io/notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 12 Sep 2024 10:19:49 GMT</lastBuildDate><atom:link href="https://raubmorder320.github.io/notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 12 Sep 2024 10:19:35 GMT</pubDate><copyright><![CDATA[Alexander]]></copyright><ttl>60</ttl><dc:creator>Alexander</dc:creator><item><title><![CDATA[lecture_1]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://raubmorder320.github.io/notes/</link><image><url>https://raubmorder320.github.io/notes/lib/media/favicon.png</url><title>obsidian</title><link>https://raubmorder320.github.io/notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 12 Sep 2024 15:34:59 GMT</lastBuildDate><atom:link href="https://raubmorder320.github.io/notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 12 Sep 2024 15:34:43 GMT</pubDate><copyright><![CDATA[Alexander]]></copyright><ttl>60</ttl><dc:creator>Alexander</dc:creator><item><title><![CDATA[Без названия]]></title><description><![CDATA[ 
+ ]]></description><link>https://raubmorder320.github.io/notes/notes/Матанализ/Без названия.html</link><guid isPermaLink="false">notes/Матанализ/Без названия.md</guid><dc:creator><![CDATA[Alexander]]></dc:creator><pubDate>Thu, 12 Sep 2024 11:49:30 GMT</pubDate></item><item><title><![CDATA[lecture_1]]></title><description><![CDATA[ 
  <br><br><br>
 <br>
 <br>
@@ -112,8 +113,8 @@
 <br>
 также существуют производные первого и второго порядка и они непрерывны<br>
 =&gt;<br>
-]]></description><link>https://raubmorder320.github.io/notes/notes/Матанализ/lecture_2.html</link><guid isPermaLink="false">notes/Матанализ/lecture_2.md</guid><dc:creator><![CDATA[Alexander]]></dc:creator><pubDate>Thu, 05 Sep 2024 18:26:44 GMT</pubDate></item><item><title><![CDATA[lecture_3]]></title><description><![CDATA[ 
- <br><br><br>
+]]></description><link>https://raubmorder320.github.io/notes/notes/Матанализ/lecture_2.html</link><guid isPermaLink="false">notes/Матанализ/lecture_2.md</guid><dc:creator><![CDATA[Alexander]]></dc:creator><pubDate>Thu, 12 Sep 2024 10:39:10 GMT</pubDate></item><item><title><![CDATA[lecture_3]]></title><description><![CDATA[ 
+ <br>12.09<br><br><br>
   <br>
 <br>
 <br>
@@ -187,8 +188,51 @@
 =&gt; f дифференцируема <br><br>
 <br>
 <br>
-конец первой лекции(вывод из этого после перерыва)]]></description><link>https://raubmorder320.github.io/notes/notes/Матанализ/lecture_3.html</link><guid isPermaLink="false">notes/Матанализ/lecture_3.md</guid><dc:creator><![CDATA[Alexander]]></dc:creator><pubDate>Thu, 12 Sep 2024 10:10:24 GMT</pubDate></item><item><title><![CDATA[lecture_4]]></title><description><![CDATA[ 
- ]]></description><link>https://raubmorder320.github.io/notes/notes/Матанализ/lecture_4.html</link><guid isPermaLink="false">notes/Матанализ/lecture_4.md</guid><dc:creator><![CDATA[Alexander]]></dc:creator><pubDate>Thu, 12 Sep 2024 09:03:04 GMT</pubDate></item><item><title><![CDATA[practic_1]]></title><description><![CDATA[ 
+конец первой лекции(вывод из этого после перерыва)]]></description><link>https://raubmorder320.github.io/notes/notes/Матанализ/lecture_3.html</link><guid isPermaLink="false">notes/Матанализ/lecture_3.md</guid><dc:creator><![CDATA[Alexander]]></dc:creator><pubDate>Thu, 12 Sep 2024 10:38:52 GMT</pubDate></item><item><title><![CDATA[lecture_4]]></title><description><![CDATA[ 
+ <br>продолжение<br>(17)=&gt;(18)<br>
+(19')<br>
+(19)<br>
+(20)<br>
+(18),(19),(19'),(20)=&gt; (21)<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+.<br>
+<br>  =&gt;  (22)<br>
+(23)<br>
+(22),(23)=&gt;=<br>
+ (временное обозначение)<br>
+=<br>
+<br>
+<br>
+(24)<br>
+<br>
+(25)<br>
+<br>
+<br>
+<br>
+<br>
+(25)=<br>
+<br>
+<br>
+<br>
+(26)<br>
+(26)=&gt;   =  = (27)<br>
+(25),(26),(27)=&gt; <br>
+ч.т.д.<br><br>-открыто<br>
+<br>
+<br>
+<br>
+<br>
+Доказательство:<br>
+<br>
+<br>
+<br>
+<br>
+ =  = ]]></description><link>https://raubmorder320.github.io/notes/notes/Матанализ/lecture_4.html</link><guid isPermaLink="false">notes/Матанализ/lecture_4.md</guid><dc:creator><![CDATA[Alexander]]></dc:creator><pubDate>Thu, 12 Sep 2024 12:08:03 GMT</pubDate></item><item><title><![CDATA[practic_1]]></title><description><![CDATA[ 
  <br><br>Для любого алгоритма сортировки можно построить сортировочную сеть.<br>
 Строятся они следующим образом:<br>
 <br>Каждая позиция числа - это линия
