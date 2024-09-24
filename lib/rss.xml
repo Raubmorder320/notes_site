@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://raubmorder320.github.io/notes/</link><image><url>https://raubmorder320.github.io/notes/lib/media/favicon.png</url><title>obsidian</title><link>https://raubmorder320.github.io/notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 24 Sep 2024 18:57:45 GMT</lastBuildDate><atom:link href="https://raubmorder320.github.io/notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 24 Sep 2024 18:57:20 GMT</pubDate><copyright><![CDATA[Alexander]]></copyright><ttl>60</ttl><dc:creator>Alexander</dc:creator><item><title><![CDATA[practic_1]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://raubmorder320.github.io/notes/</link><image><url>https://raubmorder320.github.io/notes/lib/media/favicon.png</url><title>obsidian</title><link>https://raubmorder320.github.io/notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 24 Sep 2024 19:11:09 GMT</lastBuildDate><atom:link href="https://raubmorder320.github.io/notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 24 Sep 2024 19:10:46 GMT</pubDate><copyright><![CDATA[Alexander]]></copyright><ttl>60</ttl><dc:creator>Alexander</dc:creator><item><title><![CDATA[practic_1]]></title><description><![CDATA[ 
  <br><br>Для любого алгоритма сортировки можно построить сортировочную сеть.<br>
 Строятся они следующим образом:<br>
 <br>Каждая позиция числа - это линия
@@ -2957,5 +2957,14 @@ x_4 @= x_5 @= x_6 @= x_7\<br>
  =  = ]]></description><link>https://raubmorder320.github.io/notes/notes/mathanalysis/lecture_4.html</link><guid isPermaLink="false">notes/mathanalysis/lecture_4.md</guid><dc:creator><![CDATA[Alexander]]></dc:creator><pubDate>Thu, 12 Sep 2024 15:43:09 GMT</pubDate></item><item><title><![CDATA[README]]></title><description><![CDATA[ 
  <br>rnotes of lectures 3 semester of Math and Computer Science, 2024]]></description><link>https://raubmorder320.github.io/notes/notes/README.html</link><guid isPermaLink="false">notes/README.md</guid><dc:creator><![CDATA[Alexander]]></dc:creator><pubDate>Tue, 10 Sep 2024 13:44:17 GMT</pubDate></item><item><title><![CDATA[Index]]></title><description><![CDATA[ 
  <br>Здравия желаю, товарищи! Здесь будут храниться конспекты МКН Б-13.<br>
-Пока что команда конспетописцев мала, но мы планируем расширяться.<br>
-Больше не знаю, что сказать. ]]></description><link>https://raubmorder320.github.io/notes/Index.html</link><guid isPermaLink="false">Index.md</guid><dc:creator><![CDATA[Alexander]]></dc:creator><pubDate>Mon, 09 Sep 2024 13:00:43 GMT</pubDate></item></channel></rss>
+Выбирайте себе предметы либо незанятые, либо помогайте с уже занятыми. Помощи ждём от всех!<br>Текущий расклад по предметам:<br>Редакторы:<br>
+Матан теория - Саша<br>
+Топология теория - Богдан<br>
+Алгебра теория - Гена<br>
+Диффуры теория - Даня<br>
+Матан/Алгебра практика - Миша(неточно)<br>Дилеры:<br>
+Вика - Практика Алгебра/Матан<br>
+Софа - Теория Диффуры<br>
+Марина - Теория Алгебра<br>
+Ульяна - Практика Матан<br>
+Лиза - Матан Теория]]></description><link>https://raubmorder320.github.io/notes/Index.html</link><guid isPermaLink="false">Index.md</guid><dc:creator><![CDATA[Alexander]]></dc:creator><pubDate>Tue, 24 Sep 2024 19:10:15 GMT</pubDate></item></channel></rss>
