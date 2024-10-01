@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://raubmorder320.github.io/notes/</link><image><url>https://raubmorder320.github.io/notes/lib/media/favicon.png</url><title>obsidian</title><link>https://raubmorder320.github.io/notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 30 Sep 2024 17:51:34 GMT</lastBuildDate><atom:link href="https://raubmorder320.github.io/notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 30 Sep 2024 17:51:13 GMT</pubDate><copyright><![CDATA[Alexander]]></copyright><ttl>60</ttl><dc:creator>Alexander</dc:creator><item><title><![CDATA[tasks]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[obsidian]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://raubmorder320.github.io/notes/</link><image><url>https://raubmorder320.github.io/notes/lib/media/favicon.png</url><title>obsidian</title><link>https://raubmorder320.github.io/notes/</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 01 Oct 2024 12:02:36 GMT</lastBuildDate><atom:link href="https://raubmorder320.github.io/notes/lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 01 Oct 2024 12:02:05 GMT</pubDate><copyright><![CDATA[Alexander]]></copyright><ttl>60</ttl><dc:creator>Alexander</dc:creator><item><title><![CDATA[tasks]]></title><description><![CDATA[ 
  <br><br><br>Нарисуйте сеть сортировки (для небольшого количества сравниваемых чисел) для алгоритмов:<br>
 сортировкa пузырьком, сортировка вставками, сортировка отбором <br>&nbsp;<br><br>Написать функцию, принимающую в качестве параметров три массива. Предполагается, что первые два массива упорядочены в порядке возрастания. Функция должна формировать третий массив из первых двух массивов таким образом, чтобы он тоже был упорядоченным.<br>void sort_4(int arr1[], int n1, int arr2[], int n2, int arr3[]) {
   int i = 0, j = 0, k = 0;
@@ -1301,7 +1301,149 @@ general9. В одну строчку такая. Слушай, она кажет
 <br>Пусть многочлен  неприводим над . Тогда длина периода равна или , или  это корень из расшинения
 <br>Если , то  - период является периодом .
 ]]></description><link>https://raubmorder320.github.io/notes/notes/algebra (retake)/alg.html</link><guid isPermaLink="false">notes/algebra (retake)/alg.md</guid><dc:creator><![CDATA[Alexander]]></dc:creator><pubDate>Sat, 14 Sep 2024 11:20:02 GMT</pubDate></item><item><title><![CDATA[bilet_1]]></title><description><![CDATA[ 
- <br>]]></description><link>https://raubmorder320.github.io/notes/notes/algebra (retake)/bilet_1.html</link><guid isPermaLink="false">notes/algebra (retake)/bilet_1.md</guid><dc:creator><![CDATA[Alexander]]></dc:creator><pubDate>Tue, 10 Sep 2024 13:44:03 GMT</pubDate></item><item><title><![CDATA[practic_2]]></title><description><![CDATA[ 
+ <br>]]></description><link>https://raubmorder320.github.io/notes/notes/algebra (retake)/bilet_1.html</link><guid isPermaLink="false">notes/algebra (retake)/bilet_1.md</guid><dc:creator><![CDATA[Alexander]]></dc:creator><pubDate>Tue, 10 Sep 2024 13:44:03 GMT</pubDate></item><item><title><![CDATA[24.09_Жордановы_формы]]></title><description><![CDATA[ 
+ <br><br><br><br>
+<br>Приравняем к нулю определитель матрицы  и решим соответствующее уравнение.<br>
+ - корни получившегося характеристического многочлена.
+<br>Для данных собственных чисел решим следующее уравнение:  - т.е.
+
+   Другими словами: пошаманим элементарными преобразованиями над расширенной системой
+
+   Отсюда 
+<br>Таким образом, имеем два собственных вектора  Будет две цепочки - два Жордановых блока<br>
+<br>
+Восстанавливаем цепь, решая  относительно  для . В общем же случае решаем<br>
+<br>
+Получим  для  и  для 
+Сколько в сумме векторов?
+В итоге имеем 3 ЛНЗ вектора - больше быть не может, так как размерность = 3.
+-А если поднять ?<br>
+-Who знает
+
+
+<br><br><br>Унитарный (лидирующий коэффициент = 1) полином  наименьшей степени, т.ч.  [1] называется минимальным полиномом для <br>
+<br>Т.е. это характеристический многочлен
+<br><br>
+<br>
+Пусть<br>
+
+
+<br>
+Доказать: 
+
+<br>
+Доказательство 
+
+<br>
+Существование<br>
+Какой-то точно есть - возьмем 
+
+<br>
+Единственность<br>
+Пусть 
+
+
+
+<br>, так как оба унитарные (наибольшая степень = 1) наибольшая степень пропадает
+<br>НО   ч.т.д.
+
+
+<br><br>
+<br>Если , то 
+<br>Доказательство<br>
+Пусть 
+
+<br> - поделили с остатком на <br>
+
+<br>
+
+
+<br><br>
+<br>Найти  для 
+<br>Решение 
+<br>Рассмотрим , заметим, что  
+<br>Рассмотрим 	1.  Рассмотрим пример  то есть единички идут выше
+<br><br><br>От базиса ничего не зависит, т.е. если надо рассмотреть матрицу от некоторого оператора, то можно брать любой базис<br><br>
+<br>Имеем: 
+<br>Найти  в терминах Жордановых блоков
+<br>Решение
+
+  <br>
+<br>
+<br>
+где<br>
+-  - Размер j-го блока (среди всех блоков по всем собственным числам), который к тому же соответствует собственному числу <br>
+-  - это суммы размерностей блоков для каждого собственного числа 
+<br>Пояснения
+<br>
+<br>Пока без пояснения
+<br><br>
+<br>
+
+   <br>
+
+<br><br><br>
+<br>Доказать:  - диагональная
+<br>Доказательство<br>
+-Кто аннулирует ?<br>
+-Это делает , то есть   
+
+
+<br><br>
+<br>Пусть <br>
+
+<br>Найти Жорданову форму для 
+<br>Ищем:
+<br>
+<br>Для <br>
+<br>
+
+<br>Для 2 - два блока размера один
+<br>Для 3 - 1 блок размера 1
+<br>
+<br>Получаем: 
+<br><br>Халява<br><br>
+<br>Имеем:<br>
+<br>
+<br>
+
+<br>Найти Жорданову форму
+<br>Ищем:
+
+<br> - базис<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>Строим цепочку <br>
+Можно ничего не находить, так как любая цепочка начинается с собственного вектора, но здесь он у нас 1  цепь максимальной длины - 3
+
+
+<br>Получаем один Жорданов блок
+
+
+<br><br>
+<br>Имеем: 
+<br>Задача - Описать все инвариантные подпространства размера 2
+<br>Решение   
+<br>  А вот дальше сами - Басков наказал подумать, но я забыл<br><br>
+<br>Имеем:<br>
+ над замкнутым полем<br>
+
+<br>Доказать, что существует общий собственный вектор для  и 
+<br>Доказательство:<br>
+Пусть  и 
+
+<br> инвариантно относительно  (по определению)
+<br> - собственный вектор для <br>
+Рассмотрим <br>
+т.о. , т.е.  - собственный вектор <br>
+ - инвариантно относительно 
+<br>Получаем:  (так как действуем над замкнутым полем) 
+
+
+]]></description><link>https://raubmorder320.github.io/notes/notes/algebra_practice/24.09_Жордановы_формы.html</link><guid isPermaLink="false">notes/algebra_practice/24.09_Жордановы_формы.md</guid><dc:creator><![CDATA[Alexander]]></dc:creator><pubDate>Tue, 01 Oct 2024 11:30:25 GMT</pubDate></item><item><title><![CDATA[practic_2]]></title><description><![CDATA[ 
  <br>09.09.2024<br><br><br>     <br>
 Найти:  параметризацию кривой <br>
 Для решения рассмотрим функцию .<br>
