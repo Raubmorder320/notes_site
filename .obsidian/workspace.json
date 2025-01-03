@@ -11,12 +11,10 @@
             "id": "b01118c5c1924ea0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "notes/algebra/1st lecture.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "1st lecture"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -171,29 +169,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b01118c5c1924ea0",
+  "active": "c2a43f4aeed60856",
   "lastOpenFiles": [
-    "Без названия.md",
     "notes/algebra/1st lecture.pdf",
-    "notes/С++/tasks.html",
-    "notes/С++",
-    "notes/mathanalysis/practic/Условный экстремум.html",
-    "notes/mathanalysis/practic/Без названия.html",
-    "notes/mathanalysis/practic",
-    "notes/mathanalysis/lectures/lecture 9-10.html",
-    "notes/mathanalysis/lectures/lecture 7-8.html",
-    "notes/mathanalysis/lectures/lecture 5-6.html",
-    "notes/mathanalysis/lectures/lecture 3.html",
-    "notes/Cash/Pasted image 20241005193258.png",
-    "notes/Cash/Pasted image 20241005161040.png",
-    "notes/Cash/Pasted image 20241005160056.png",
-    "notes/Cash/Pasted image 20241005160046.png",
-    "notes/Cash/Pasted image 20241005155136.png",
-    "notes/Cash/Pasted image 20240918142317.png",
-    "notes/Cash/Pasted image 20240918140925.png",
-    "notes/Cash/Pasted image 20240917171807.png",
-    "notes/Cash/Pasted image 20240918085726.png",
-    "notes/Cash/Pasted image 20240918082919.png",
+    "Новая папка/с++/tasks.html",
+    "Новая папка/с++",
+    "Новая папка/notes/mathanalysis/practic/Условный экстремум.html",
+    "Новая папка/notes/mathanalysis/practic/Без названия.html",
+    "Новая папка/notes/mathanalysis/lectures/lecture 7-8.html",
+    "Новая папка/notes/mathanalysis/lectures/lecture 9-10.html",
+    "Новая папка/notes/mathanalysis/lectures/lecture 5-6.html",
+    "Новая папка/notes/mathanalysis/lectures/lecture 4.html",
+    "Новая папка/notes/mathanalysis/lectures/lecture 3.html",
+    "Новая папка/notes/mathanalysis/lectures/lecture 2.html",
+    "Новая папка/notes/Cash/Pasted image 20240909221628.png",
+    "Новая папка/notes/Cash/Pasted image 20241005193258.png",
+    "Новая папка/notes/Cash/Pasted image 20241005161040.png",
+    "Новая папка/notes/Cash/Pasted image 20241005160056.png",
+    "Новая папка/notes/Cash/Pasted image 20241005160046.png",
+    "Новая папка/notes/Cash/Pasted image 20241005155136.png",
+    "Новая папка/notes/Cash/Pasted image 20240918142317.png",
+    "Новая папка/notes/Cash/Pasted image 20240918140925.png",
+    "Новая папка/notes/Cash/Pasted image 20240918085726.png",
+    "Новая папка/notes/Cash/Pasted image 20240918082919.png",
+    "Без названия.md",
     "aaaa.md",
     "Добро пожаловать.md"
   ]
