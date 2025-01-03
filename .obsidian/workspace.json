@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "fa12f376e0f86b3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "46f726f21baad121",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b01118c5c1924ea0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "notes/algebra/1st lecture.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "1st lecture"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "858854d5bcc0a043",
+    "type": "split",
+    "children": [
+      {
+        "id": "02aeec0a78507911",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf5204550efe7955",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "f708b92188267113",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "30dbb9e798f4cce7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "aaa6fd75318aab6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c91a70b9ae7f64d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1148274a1cdcc89",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Добро пожаловать"
+            }
+          },
+          {
+            "id": "4010a6ec8c91f35d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Добро пожаловать.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Добро пожаловать"
+            }
+          },
+          {
+            "id": "04a07eacc4495a68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "0667a20960ad9fb2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Добро пожаловать.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Добро пожаловать"
+            }
+          },
+          {
+            "id": "c2a43f4aeed60856",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b01118c5c1924ea0",
+  "lastOpenFiles": [
+    "Без названия.md",
+    "notes/algebra/1st lecture.pdf",
+    "notes/С++/tasks.html",
+    "notes/С++",
+    "notes/mathanalysis/practic/Условный экстремум.html",
+    "notes/mathanalysis/practic/Без названия.html",
+    "notes/mathanalysis/practic",
+    "notes/mathanalysis/lectures/lecture 9-10.html",
+    "notes/mathanalysis/lectures/lecture 7-8.html",
+    "notes/mathanalysis/lectures/lecture 5-6.html",
+    "notes/mathanalysis/lectures/lecture 3.html",
+    "notes/Cash/Pasted image 20241005193258.png",
+    "notes/Cash/Pasted image 20241005161040.png",
+    "notes/Cash/Pasted image 20241005160056.png",
+    "notes/Cash/Pasted image 20241005160046.png",
+    "notes/Cash/Pasted image 20241005155136.png",
+    "notes/Cash/Pasted image 20240918142317.png",
+    "notes/Cash/Pasted image 20240918140925.png",
+    "notes/Cash/Pasted image 20240917171807.png",
+    "notes/Cash/Pasted image 20240918085726.png",
+    "notes/Cash/Pasted image 20240918082919.png",
+    "aaaa.md",
+    "Добро пожаловать.md"
+  ]
+}
