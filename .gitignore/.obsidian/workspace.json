@@ -11,10 +11,14 @@
             "id": "b01118c5c1924ea0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -169,8 +173,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2a43f4aeed60856",
+  "active": "b01118c5c1924ea0",
   "lastOpenFiles": [
+    "Новая папка",
+    "conflict-files-obsidian-git.md",
     "notes/mathanalysis/practic/Условный экстремум.html",
     "notes/mathanalysis/practic/Без названия.html",
     "notes/mathanalysis/lectures/lecture 9-10.html",
@@ -181,7 +187,6 @@
     "notes/mathanalysis/lectures/lecture 2.html",
     "notes/mathanalysis/lectures/lecture 1.html",
     "notes/mathanalysis/practic",
-    "notes/mathanalysis/lectures",
     "notes/Cash/Pasted image 20241005193258.png",
     "notes/Cash/Pasted image 20241005160046.png",
     "notes/Cash/Pasted image 20241005161040.png",
